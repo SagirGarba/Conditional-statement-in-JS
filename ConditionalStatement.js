@@ -1,4 +1,4 @@
-//I will write code about my Article in Conditional statement in JavaScript.
+
 //This github repo contains the sample codes of an Article "CONDITIONAL STATEMENT IN JavaScript" written at ................ by https://sagirportfolio.netlify.app/
 
     //Logical Operators
